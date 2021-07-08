@@ -18,15 +18,15 @@ VIM COLORSCHEME DARK GREEN ELF
 
 SCREENSHOT #1 : README FILE
 
-![DARK GREEN ELF PREVIEW](https://mtatton.github.io/elf/dark_green_elf.gif)
+![DARK GREEN ELF PREVIEW](https://raw.githubusercontent.com/mtatton/elf/master/dark_green_elf_001.gif)
 
 SCREENSHOT #2 : C FILE
 
-![DARK GREEN ELF PREVIEW](https://mtatton.github.io/elf/dark_green_elf_002.gif)
+![DARK GREEN ELF PREVIEW](https://raw.githubusercontent.com/mtatton/elf/master/dark_green_elf_002.gif)
 
 SCREENSHOT #3 : SELECTION HAVING THE SHADOW
 
-![DARK GREEN ELF PREVIEW](https://mtatton.github.io/elf/dark_green_elf_003.gif)
+![DARK GREEN ELF PREVIEW](https://raw.githubusercontent.com/mtatton/elf/master/dark_green_elf_003.gif)
 
 
 ## INSTALL:
