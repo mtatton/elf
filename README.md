@@ -10,7 +10,7 @@ LAST EDIT:   MMXVIII
 
 DESIGNED BY: HUMAN@LEVI.MOON
 
-# vim_colo_dark_green_elf
+# elf
 
 VIM COLORSCHEME DARK GREEN ELF
 
@@ -18,22 +18,22 @@ VIM COLORSCHEME DARK GREEN ELF
 
 SCREENSHOT #1 : README FILE
 
-![DARK GREEN ELF PREVIEW](https://mtatton.github.io/vim_colo_dark_green_elf/dark_green_elf.gif)
+![DARK GREEN ELF PREVIEW](https://mtatton.github.io/elf/dark_green_elf.gif)
 
 SCREENSHOT #2 : C FILE
 
-![DARK GREEN ELF PREVIEW](https://mtatton.github.io/vim_colo_dark_green_elf/dark_green_elf_002.gif)
+![DARK GREEN ELF PREVIEW](https://mtatton.github.io/elf/dark_green_elf_002.gif)
 
 SCREENSHOT #3 : SELECTION HAVING THE SHADOW
 
-![DARK GREEN ELF PREVIEW](https://mtatton.github.io/vim_colo_dark_green_elf/dark_green_elf_003.gif)
+![DARK GREEN ELF PREVIEW](https://mtatton.github.io/elf/dark_green_elf_003.gif)
 
 
 ## INSTALL:
 
 1) Get the source
 
-`git clone https://github.com/mtatton/vim_colo_dark_green_elf.git`
+`git clone https://github.com/mtatton/mtatton/elf.git`
 
 2) Put in Your ~/.bashrc
 
