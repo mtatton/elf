@@ -42,9 +42,13 @@ hi LineNr      ctermfg=241  ctermbg=Black guifg=#626262 guibg=Black
 hi Error       ctermfg=068  ctermbg=Black guifg=#5f87d7 guibg=Black
 hi Todo        ctermfg=080  ctermbg=Black guifg=#5fd7d7 guibg=Black
 hi CursorLine  ctermfg=079  ctermbg=232   guibg=#444444 guifg=Black
-hi StatusLine  ctermfg=016  ctermbg=072   guifg=#5fd7d7 guibg=Black
+hi StatusLine  ctermfg=014  ctermbg=233   guifg=#5fd7d7 guibg=Black
 hi Visual      ctermfg=041  ctermbg=233   guifg=#aeaeae guibg=#AAAAAA 
 hi Search      ctermfg=239  ctermbg=234   guifg=#9e9e9e guibg=#AAAAAA
+hi DiffAdd     ctermfg=041  ctermbg=233   guifg=#9e9e9e guibg=#AAAAAA
+hi DiffChange  ctermfg=087  ctermbg=233   guifg=#9e9e9e guibg=#AAAAAA
+hi DiffDelete  ctermfg=087  ctermbg=233   guifg=#9e9e9e guibg=#AAAAAA
+hi DiffText    ctermfg=087  ctermbg=233   guifg=#9e9e9e guibg=#AAAAAA
 hi link String           Constant
 hi link Character        Constant
 hi link Number           Constant
